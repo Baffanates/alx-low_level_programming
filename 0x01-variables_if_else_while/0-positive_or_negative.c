@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Determines if a number is positive, negative or zero.
- *
+ * main - Entry point
+ * Description - 'Determines if a number is positive, negative or zero'
+ * @parameter: Determines if a number is positive, negative or zero
  * Return: Always 0 (success)
  */
 
