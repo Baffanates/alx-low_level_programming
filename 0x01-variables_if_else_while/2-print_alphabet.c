@@ -3,12 +3,11 @@
 /**
  * main - Entry point
  * Description - 'Determines if a number is positive, negative or zero'
- * @parameter: Determines if a number is positive, negative or zero
  * Return: Always 0 (success)
  */
 int main(void)
 {
-	char alp[26] = "abcdefghijklmnopkrstuvwxyz";
+	char alp[26] = "abcdefghijklmnopqkrstuvwxyz";
 	int i;
 
 	for (i = 0; i < 26; i++)
