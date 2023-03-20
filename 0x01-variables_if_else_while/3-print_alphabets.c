@@ -9,7 +9,7 @@
 int main(void)
 {
 
-char alp[52] = "abcdefghijklmnopqrstuvwqyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 
 	for (i = 0; i < 52; i++)
@@ -18,4 +18,4 @@ char alp[52] = "abcdefghijklmnopqrstuvwqyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	}
 	putchar('\n');
 	return (0);
-	}
+}
