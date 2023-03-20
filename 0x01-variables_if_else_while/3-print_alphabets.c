@@ -2,7 +2,7 @@
 
  /**
  * main - Entry point
- * Description - 'Determines if a number is positive, negative or zero'
+ * Description - 'the descrition'
  * @parameter: Determines if a number is positive, negative or zero
  * Return: Always 0 (success)
  */
