@@ -1,10 +1,12 @@
 #include <stdio.h>
 
- /**
+/**
  * main - Entry point
- * Description - 'the descrition'
- * @parameter: Determines if a number is positive, negative or zero
- * Return: Always 0 (success)
+ *
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
