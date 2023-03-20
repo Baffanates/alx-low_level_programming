@@ -4,7 +4,6 @@
  * main - Entry point
  *
  * Description: 'the program's description'
- * @parameter: describe the parameter
  *
  * Return: Always 0 (Success)
  */
@@ -16,7 +15,7 @@ int main(void)
 	for (n = 48; n < 58; n++)
 	{
 		putchar(n);
-		if (n !=57)
+		if (n != 57)
 		{
 			putchar(',');
 			putchar(' ');
@@ -24,4 +23,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}	
+}
