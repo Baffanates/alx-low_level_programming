@@ -2,8 +2,7 @@
 
 /**
  * main - check the code
- *
- * Return: Always 0.
+ * Return: void
  */
 void more_numbers(void)
 {
